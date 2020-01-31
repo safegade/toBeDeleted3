@@ -1,0 +1,12 @@
+.idea/
+*.project
+*.settings/
+*.classpath
+_windows/
+codestyles/
+inspection/
+cucumberCLIMain.iml
+CLIExample471/target/
+CLIExample471/CLIExample471.iml
+CLIExample512/target/
+CLIExample512/CLIExample512.iml
