@@ -3,7 +3,7 @@ import org.testng.annotations.Test;
 public class BaseRunner471 {
 /*
 * Maven Command to Execute the Code:
-* mvn clean -Dtest=BaseRunner471 test
+* mvn clean -Dtest=BaseRunner471 test -DfailIfNoTests=false
 * */
 
 
