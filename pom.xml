@@ -15,6 +15,7 @@
     <modules>
         <module>CLIExample471</module>
         <module>CLIExample512</module>
+        <module>CLIExample471_To_512</module>
     </modules>
 
     <build>
